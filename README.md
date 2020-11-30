@@ -11,3 +11,8 @@ Make sure to test these endpoints with Postman before trying to retrieve them fr
 1. The home page. It should list all students.
 2. /student/random . It should show a detail view of a random single student.
 3. /student/:id. It should show the detail view of a single student.
+
+## Bonus Exercises
+
+* Create extra endpoints for the staff
+* Make a search bar that enables the user to search students by name. Hint: you need `<input>` field.
